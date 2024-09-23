@@ -2,7 +2,9 @@
 
 Groupe :
 
--TU-HUNG Huy
+-TU-HUNG Huy \n
 -TRAORE Amadou
 -TOUKAM Helvira (absent ?)
 -SENECHAL Damien
+
+Techno
